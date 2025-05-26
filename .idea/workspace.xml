@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a6d7dc7c-6cc7-4583-813b-0dbb7cbc3323" name="Changes" comment="" />
+=======
+    <list default="true" id="a6d7dc7c-6cc7-4583-813b-0dbb7cbc3323" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> mongo-temp
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "history": [
     {
@@ -30,6 +37,25 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/kang-yesung/Database_study.git&quot;,
+=======
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;kang-yesung&quot;,
+      &quot;author&quot;: &quot;kang-yesung&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kang-yesung&quot;,
+    &quot;author&quot;: &quot;kang-yesung&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kang-yesung/Database_Study.git&quot;,
+>>>>>>> mongo-temp
     &quot;accountId&quot;: &quot;e55429b9-6f81-4c6a-b80e-6a5e6347b830&quot;
   }
 }</component>
@@ -44,7 +70,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+<<<<<<< HEAD
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+=======
+    &quot;git-widget-placeholder&quot;: &quot;6dbb48e8&quot;,
+>>>>>>> mongo-temp
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/kang-yeseong/Desktop/03_Database/Database_study/06_index/basic/01_sqldb&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -117,6 +147,11 @@
       <workItem from="1747803677963" duration="1034000" />
       <workItem from="1747814518793" duration="3738000" />
       <workItem from="1747873255002" duration="1581000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1748236515054" duration="20000" />
+      <workItem from="1748236537284" duration="15000" />
+>>>>>>> mongo-temp
     </task>
     <servers />
   </component>
